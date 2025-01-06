@@ -1,0 +1,16 @@
+# git-to-ignore
+.idea
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# venvs
+*venv*/
+
+# outputs
+outputs/
+/draft_analysys
+
+nohup*.out
+.vscode/settings.json
