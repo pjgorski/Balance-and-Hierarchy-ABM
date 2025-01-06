@@ -1,4 +1,4 @@
-# Complex systems toolbox
+# Balance and Hierarchy ABM
 Authors: Adam Sulik, Piotr J. Górski
 
 ## Setup
